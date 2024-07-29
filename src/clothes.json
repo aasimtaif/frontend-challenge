@@ -1,0 +1,32 @@
+{"clothes": [
+    {
+      "id": 1,
+      "type": "shirt",
+      "image": "shirt",
+      "price": 25.99,
+      "reviews": []
+    },
+    {
+      "id": 6,
+      "type": "t-shirt",
+      "image": "tshirt",
+      "price": 19.99,
+      "reviews": []
+    },
+    {
+      "id": 9,
+      "type": "pant",
+      "image": "pant",
+      "price": 32.99,
+      "reviews": []
+    },
+
+    {
+      "id": 12,
+      "type": "hoodie",
+      "image": "hoodie",
+      "price": 42.99,
+      "reviews": []
+    }
+  ]
+}
